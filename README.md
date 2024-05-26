@@ -1,3 +1,49 @@
+# GradeMaster
+
+GradeMaster is a Java program developed during my internship at CodTech IT Solutions. This application allows users to input grades for different subjects or assignments, calculates the average grade, displays the overall grade, and provides additional information such as letter grades or GPA.
+
+## Features
+
+- **Input Grades**: Users can input grades for various subjects or assignments.
+- **Calculate Average Grade**: The program calculates the average grade based on the inputted grades.
+- **Overall Grade Display**: Displays the overall grade with additional information like letter grades or GPA.
+- **Grade Management**: Provides options to add, edit, and delete grades as needed.
+
+## Usage
+
+1. **Input Grades**:
+   - Start the application and follow the prompts to enter grades for each subject or assignment.
+
+2. **Calculate Average**:
+   - Once all grades are entered, the program will calculate and display the average grade.
+
+3. **View Overall Grade**:
+   - The program will show the overall grade, including the letter grade and GPA.
+
+4. **Manage Grades**:
+   - Use the provided options to add new grades, edit existing grades, or delete grades as needed.
+
+## Usage with BlueJ
+
+To run the program using BlueJ, follow these steps:
+
+1. Open BlueJ and create a new project.
+2. Add the GradeMaster.java file to the project.
+3. Compile the program by selecting "Compile" from the BlueJ menu.
+4. Right-click on the GradeMaster class and select "void main(String[] args)" to execute the program.
+
+## Contact
+
+For any inquiries or feedback, please contact  - [Amrin Shaikh].
+
+Project Link: [https://github.com/your_username/GradeMaster](https://github.com/your_username/GradeMaster)
+
+
+
+
+
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
