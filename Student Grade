@@ -112,6 +112,3 @@ public class StudentGradeTracker {
         }
     }
 }
-```
-
-This program allows you to track and manage student grades by providing options to add, edit, delete, and display grades. It keeps track of the student's name, subjects, and grades.
